@@ -1,0 +1,22 @@
+.calcBody{
+    border: 1px solid orange;
+    margin: 10px;
+    /* display:flex; */
+}
+
+.row {
+    display: flex;
+    border: 1px solid blue;
+    margin: 10px;
+}
+
+.calcWindow{
+    background-color: grey;
+    border: 1px solid darkgrey;
+}
+
+.button{
+    border: 1px solid green;
+    margin: 5px;
+    padding: 5px;
+}

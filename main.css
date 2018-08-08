@@ -1,7 +1,7 @@
 .calcBody{
     border: 1px solid orange;
     margin: 10px;
-    /* display:flex; */
+    width: 250px;
 }
 
 .row {
@@ -13,6 +13,7 @@
 .calcWindow{
     background-color: grey;
     border: 1px solid darkgrey;
+    width: 80%;
 }
 
 .button{

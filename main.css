@@ -1,13 +1,12 @@
 .calcBody{
     border: 1px solid orange;
-    margin: 10px;
     width: 250px;
 }
 
 .row {
     display: flex;
     border: 1px solid blue;
-    margin: 10px;
+    margin: 0 5px;
 }
 
 .calcWindow{
@@ -20,4 +19,5 @@
     border: 1px solid green;
     margin: 5px;
     padding: 5px;
+    width: 20%;
 }
